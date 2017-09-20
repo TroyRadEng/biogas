@@ -4,6 +4,6 @@
 * to collect: attach the bag to a [5 gallon digester](https://www.youtube.com/watch?v=iMTrCj5zhYo) (but make it out of a water cooler tank)
 * to cook: attach the bag to one of [these](https://www.rei.com/product/100112/jetboil-luna-satellite-burner)
 
-## background info
+## links
 
 * [scott kellogg's biogas demo](https://youtu.be/KqQFLwW5fgE)
