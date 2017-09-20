@@ -6,4 +6,4 @@
 
 ## background info
 
-* [scott kellogg's biogas demo](https://www.youtube.com/watch?v=KqQFLwW5fgE&feature=youtu.be)
+* [scott kellogg's biogas demo](https://youtu.be/KqQFLwW5fgE)
